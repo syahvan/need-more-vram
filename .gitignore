@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.vite/
+*.log
+.env
+.env.*
+.DS_Store
+coverage/
+
+# Private research & strategy — never pushed
+internal/

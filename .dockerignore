@@ -1,0 +1,7 @@
+node_modules
+dist
+internal
+.git
+.githooks
+*.log
+.env*
