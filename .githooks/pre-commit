@@ -1,0 +1,6 @@
+#!/usr/bin/env sh
+# Refuse commits that include anything under internal/ (private research & strategy).
+if git diff --cached --name-only | grep -q '^internal/'; then
+  echo "pre-commit: refusing to commit files under internal/ (private). Unstage them first." >&2
+  exit 1
+fi
