@@ -6,6 +6,8 @@ dist/
 .env.*
 .DS_Store
 coverage/
+__pycache__/
+*.pyc
 
 # Private research & strategy — never pushed
 internal/

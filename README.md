@@ -63,15 +63,6 @@ npm run build      # static site in dist/
 
 For other hosts, set `BASE_PATH=/` when building.
 
-**Cloud Run (no gcloud needed):** `deploy/cloudrun.py` builds the `Dockerfile` (nginx serving the static build), pushes it to Artifact Registry, and creates or updates a public Cloud Run service. It uses a service-account key and the REST APIs directly.
-
-```sh
-GOOGLE_APPLICATION_CREDENTIALS=/path/to/key.json \
-  python3 deploy/cloudrun.py --region asia-southeast2 --service need-more-vram --docker "sudo docker"
-```
-
-The service account needs Artifact Registry Admin (or Writer on an existing repo), Cloud Run Admin, and Service Account User. Add `--check` to verify access only, or `--private` to skip public access.
-
 ## Contributing
 
 Corrections to GPU specs, prices or memory formulas are very welcome, ideally with a link to the primary source, such as a vendor datasheet, engine source code or a benchmark log. Please add a fixture and a test when you add support for a new architecture.
