@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05",
+  "updatedAt": "2026-11-02",
   "currency": "USD",
   "sources": [
     {
@@ -99,7 +99,7 @@
       "ramGB": 16,
       "region": "ap-southeast-1",
       "onDemandHourly": 0.736,
-      "spotHourly": 0.339033,
+      "spotHourly": 0.334533,
       "commit1yHourly": 0.464
     },
     {
@@ -111,8 +111,8 @@
       "ramGB": 32,
       "region": "ap-southeast-1",
       "onDemandHourly": 1.052,
-      "spotHourly": 0.491733,
-      "commit1yHourly": 0.663
+      "spotHourly": 0.5317,
+      "commit1yHourly": 0.726
     },
     {
       "provider": "aws",
@@ -123,7 +123,7 @@
       "ramGB": 64,
       "region": "ap-southeast-1",
       "onDemandHourly": 1.685,
-      "spotHourly": 0.6516,
+      "spotHourly": 0.671067,
       "commit1yHourly": 1.061
     },
     {
@@ -135,8 +135,8 @@
       "ramGB": 128,
       "region": "ap-southeast-1",
       "onDemandHourly": 3.045,
-      "spotHourly": 0.943467,
-      "commit1yHourly": 2.101
+      "spotHourly": 0.9998,
+      "commit1yHourly": 1.918
     },
     {
       "provider": "aws",
@@ -147,8 +147,8 @@
       "ramGB": 256,
       "region": "ap-southeast-1",
       "onDemandHourly": 6.089,
-      "spotHourly": 1.7566,
-      "commit1yHourly": 3.836
+      "spotHourly": 1.5953,
+      "commit1yHourly": 4.202
     },
     {
       "provider": "aws",
@@ -159,8 +159,8 @@
       "ramGB": 192,
       "region": "ap-southeast-1",
       "onDemandHourly": 5.474,
-      "spotHourly": 1.907633,
-      "commit1yHourly": 3.449
+      "spotHourly": 1.6622,
+      "commit1yHourly": 3.777
     },
     {
       "provider": "aws",
@@ -171,7 +171,7 @@
       "ramGB": 384,
       "region": "ap-southeast-1",
       "onDemandHourly": 10.948,
-      "spotHourly": 3.801467,
+      "spotHourly": 3.6575,
       "commit1yHourly": 6.897
     },
     {
@@ -220,7 +220,7 @@
       "region": "ap-southeast-3",
       "onDemandHourly": 1.408,
       "spotHourly": 0.39424,
-      "commit1yHourly": 0.88704
+      "commit1yHourly": 0.97574
     },
     {
       "provider": "aws",
@@ -268,7 +268,7 @@
       "region": "ap-southeast-3",
       "onDemandHourly": 5.73277,
       "spotHourly": 0.74526,
-      "commit1yHourly": 3.61165
+      "commit1yHourly": 3.97281
     },
     {
       "provider": "aws",
@@ -280,7 +280,7 @@
       "region": "ap-southeast-3",
       "onDemandHourly": 7.93854,
       "spotHourly": 2.143406,
-      "commit1yHourly": 5.00128
+      "commit1yHourly": 5.50141
     },
     {
       "provider": "aws",
@@ -316,7 +316,7 @@
       "region": "ap-southeast-3",
       "onDemandHourly": 230.93,
       "spotHourly": null,
-      "commit1yHourly": 181.85738
+      "commit1yHourly": 195.71318
     },
     {
       "provider": "aws",
@@ -340,7 +340,7 @@
       "region": "ap-southeast-3",
       "onDemandHourly": 75.9552,
       "spotHourly": null,
-      "commit1yHourly": 47.85178
+      "commit1yHourly": 52.63695
     },
     {
       "provider": "aws",
@@ -352,7 +352,7 @@
       "region": "ap-southeast-3",
       "onDemandHourly": 87.34848,
       "spotHourly": 27.951514,
-      "commit1yHourly": 55.02954
+      "commit1yHourly": 60.5325
     },
     {
       "provider": "aws",
@@ -364,7 +364,7 @@
       "region": "ap-southeast-3",
       "onDemandHourly": 6.40239,
       "spotHourly": null,
-      "commit1yHourly": 4.03351
+      "commit1yHourly": 4.43686
     },
     {
       "provider": "aws",
@@ -388,7 +388,7 @@
       "region": "ap-southeast-3",
       "onDemandHourly": 10.02918,
       "spotHourly": null,
-      "commit1yHourly": 6.31838
+      "commit1yHourly": 6.95022
     },
     {
       "provider": "aws",
@@ -412,7 +412,7 @@
       "region": "ap-southeast-3",
       "onDemandHourly": 31.54851,
       "spotHourly": null,
-      "commit1yHourly": 21.86312
+      "commit1yHourly": 19.87556
     },
     {
       "provider": "aws",
@@ -424,7 +424,7 @@
       "region": "ap-southeast-3",
       "onDemandHourly": 63.09702,
       "spotHourly": null,
-      "commit1yHourly": 43.72624
+      "commit1yHourly": 39.75113
     },
     {
       "provider": "aws",
@@ -435,7 +435,7 @@
       "ramGB": 1152,
       "region": "us-east-1",
       "onDemandHourly": 21.957642,
-      "spotHourly": 18.3698,
+      "spotHourly": 18.372375,
       "commit1yHourly": 15.313203
     },
     {
@@ -447,7 +447,7 @@
       "ramGB": 1152,
       "region": "us-east-1",
       "onDemandHourly": 27.44705,
-      "spotHourly": 20.0666,
+      "spotHourly": 22.49465,
       "commit1yHourly": 19.141502
     },
     {
@@ -459,8 +459,8 @@
       "ramGB": 16,
       "region": "us-east-1",
       "onDemandHourly": 1.006,
-      "spotHourly": 0.47994,
-      "commit1yHourly": 0.69716
+      "spotHourly": 0.52922,
+      "commit1yHourly": 0.63378
     },
     {
       "provider": "aws",
@@ -471,7 +471,7 @@
       "ramGB": 32,
       "region": "us-east-1",
       "onDemandHourly": 1.212,
-      "spotHourly": 0.88218,
+      "spotHourly": 0.81238,
       "commit1yHourly": 0.83992
     },
     {
@@ -483,8 +483,8 @@
       "ramGB": 64,
       "region": "us-east-1",
       "onDemandHourly": 1.624,
-      "spotHourly": 0.91334,
-      "commit1yHourly": 1.02312
+      "spotHourly": 0.87472,
+      "commit1yHourly": 1.12543
     },
     {
       "provider": "aws",
@@ -495,7 +495,7 @@
       "ramGB": 128,
       "region": "us-east-1",
       "onDemandHourly": 2.448,
-      "spotHourly": 1.21334,
+      "spotHourly": 1.04032,
       "commit1yHourly": 1.54224
     },
     {
@@ -507,7 +507,7 @@
       "ramGB": 256,
       "region": "us-east-1",
       "onDemandHourly": 4.096,
-      "spotHourly": 1.73138,
+      "spotHourly": 1.56066,
       "commit1yHourly": 2.58048
     },
     {
@@ -519,7 +519,7 @@
       "ramGB": 192,
       "region": "us-east-1",
       "onDemandHourly": 5.672,
-      "spotHourly": 4.5082,
+      "spotHourly": 3.78344,
       "commit1yHourly": 3.57336
     },
     {
@@ -531,8 +531,8 @@
       "ramGB": 384,
       "region": "us-east-1",
       "onDemandHourly": 8.144,
-      "spotHourly": 4.76344,
-      "commit1yHourly": 5.13072
+      "spotHourly": 3.99564,
+      "commit1yHourly": 5.64379
     },
     {
       "provider": "aws",
@@ -543,8 +543,8 @@
       "ramGB": 768,
       "region": "us-east-1",
       "onDemandHourly": 16.288,
-      "spotHourly": 8.31462,
-      "commit1yHourly": 11.28758
+      "spotHourly": 10.35426,
+      "commit1yHourly": 10.26144
     },
     {
       "provider": "aws",
@@ -555,8 +555,8 @@
       "ramGB": 2048,
       "region": "us-east-1",
       "onDemandHourly": 113.9328,
-      "spotHourly": 56.4448,
-      "commit1yHourly": 96.55805
+      "spotHourly": 83.6912,
+      "commit1yHourly": 89.72208
     },
     {
       "provider": "aws",
@@ -567,7 +567,7 @@
       "ramGB": 4096,
       "region": "us-east-1",
       "onDemandHourly": 142.416,
-      "spotHourly": 60.272,
+      "spotHourly": 85.9802,
       "commit1yHourly": 120.69756
     },
     {
@@ -579,8 +579,8 @@
       "ramGB": 256,
       "region": "us-east-1",
       "onDemandHourly": 6.88,
-      "spotHourly": 3.33834,
-      "commit1yHourly": 4.76784
+      "spotHourly": 4.5033,
+      "commit1yHourly": 4.3344
     },
     {
       "provider": "aws",
@@ -591,8 +591,8 @@
       "ramGB": 2048,
       "region": "us-east-1",
       "onDemandHourly": 55.04,
-      "spotHourly": 26.904583,
-      "commit1yHourly": 38.14272
+      "spotHourly": 32.1572,
+      "commit1yHourly": 34.6752
     },
     {
       "provider": "aws",
@@ -603,7 +603,7 @@
       "ramGB": 2048,
       "region": "us-east-1",
       "onDemandHourly": 63.296,
-      "spotHourly": 35.9826,
+      "spotHourly": 42.18895,
       "commit1yHourly": 43.86413
     },
     {
@@ -615,7 +615,7 @@
       "ramGB": 16,
       "region": "us-east-1",
       "onDemandHourly": 0.8048,
-      "spotHourly": 0.60538,
+      "spotHourly": 0.60334,
       "commit1yHourly": 0.57632
     },
     {
@@ -627,7 +627,7 @@
       "ramGB": 32,
       "region": "us-east-1",
       "onDemandHourly": 0.9776,
-      "spotHourly": 0.90856,
+      "spotHourly": 0.87084,
       "commit1yHourly": 0.63642
     },
     {
@@ -639,8 +639,8 @@
       "ramGB": 64,
       "region": "us-east-1",
       "onDemandHourly": 1.3232,
-      "spotHourly": 0.96162,
-      "commit1yHourly": 0.94754
+      "spotHourly": 0.9809,
+      "commit1yHourly": 0.8614
     },
     {
       "provider": "aws",
@@ -651,7 +651,7 @@
       "ramGB": 128,
       "region": "us-east-1",
       "onDemandHourly": 1.5392,
-      "spotHourly": 0.860375,
+      "spotHourly": 0.82475,
       "commit1yHourly": 1.10222
     },
     {
@@ -663,8 +663,8 @@
       "ramGB": 128,
       "region": "us-east-1",
       "onDemandHourly": 2.0144,
-      "spotHourly": 1.27716,
-      "commit1yHourly": 1.44251
+      "spotHourly": 0.94586,
+      "commit1yHourly": 1.31137
     },
     {
       "provider": "aws",
@@ -675,7 +675,7 @@
       "ramGB": 256,
       "region": "us-east-1",
       "onDemandHourly": 2.4464,
-      "spotHourly": 1.237825,
+      "spotHourly": 1.26055,
       "commit1yHourly": 1.75187
     },
     {
@@ -687,7 +687,7 @@
       "ramGB": 256,
       "region": "us-east-1",
       "onDemandHourly": 3.3968,
-      "spotHourly": 1.3301,
+      "spotHourly": 1.3551,
       "commit1yHourly": 2.21132
     },
     {
@@ -699,8 +699,8 @@
       "ramGB": 192,
       "region": "us-east-1",
       "onDemandHourly": 4.6016,
-      "spotHourly": 3.31056,
-      "commit1yHourly": 2.99564
+      "spotHourly": 3.12554,
+      "commit1yHourly": 3.29521
     },
     {
       "provider": "aws",
@@ -711,8 +711,8 @@
       "ramGB": 384,
       "region": "us-east-1",
       "onDemandHourly": 6.6752,
-      "spotHourly": 5.08316,
-      "commit1yHourly": 4.34556
+      "spotHourly": 4.51406,
+      "commit1yHourly": 4.78011
     },
     {
       "provider": "aws",
@@ -723,7 +723,7 @@
       "ramGB": 768,
       "region": "us-east-1",
       "onDemandHourly": 13.3504,
-      "spotHourly": 7.8211,
+      "spotHourly": 7.85662,
       "commit1yHourly": 8.69111
     },
     {
@@ -735,7 +735,7 @@
       "ramGB": 32,
       "region": "us-east-1",
       "onDemandHourly": 1.861,
-      "spotHourly": 1.8384,
+      "spotHourly": 1.711625,
       "commit1yHourly": 1.28967
     },
     {
@@ -747,7 +747,7 @@
       "ramGB": 64,
       "region": "us-east-1",
       "onDemandHourly": 2.24208,
-      "spotHourly": 2.2149,
+      "spotHourly": 2.1852,
       "commit1yHourly": 1.41251
     },
     {
@@ -759,7 +759,7 @@
       "ramGB": 128,
       "region": "us-east-1",
       "onDemandHourly": 3.00424,
-      "spotHourly": 2.4329,
+      "spotHourly": 2.5022,
       "commit1yHourly": 2.08194
     },
     {
@@ -771,8 +771,8 @@
       "ramGB": 256,
       "region": "us-east-1",
       "onDemandHourly": 4.52856,
-      "spotHourly": 1.625775,
-      "commit1yHourly": 3.13829
+      "spotHourly": 2.499475,
+      "commit1yHourly": 2.85299
     },
     {
       "provider": "aws",
@@ -783,8 +783,8 @@
       "ramGB": 512,
       "region": "us-east-1",
       "onDemandHourly": 7.57719,
-      "spotHourly": 2.2358,
-      "commit1yHourly": 5.25099
+      "spotHourly": 3.761175,
+      "commit1yHourly": 4.77363
     },
     {
       "provider": "aws",
@@ -795,7 +795,7 @@
       "ramGB": 384,
       "region": "us-east-1",
       "onDemandHourly": 10.49264,
-      "spotHourly": 8.108025,
+      "spotHourly": 7.15675,
       "commit1yHourly": 6.61036
     },
     {
@@ -807,8 +807,8 @@
       "ramGB": 768,
       "region": "us-east-1",
       "onDemandHourly": 15.06559,
-      "spotHourly": 10.17285,
-      "commit1yHourly": 9.49132
+      "spotHourly": 11.742425,
+      "commit1yHourly": 10.44045
     },
     {
       "provider": "aws",
@@ -819,7 +819,7 @@
       "ramGB": 1536,
       "region": "us-east-1",
       "onDemandHourly": 30.13118,
-      "spotHourly": 19.13095,
+      "spotHourly": 19.1278,
       "commit1yHourly": 18.98264
     },
     {
@@ -831,8 +831,8 @@
       "ramGB": 32,
       "region": "us-east-1",
       "onDemandHourly": 2.52,
-      "spotHourly": 0.58245,
-      "commit1yHourly": 1.5876
+      "spotHourly": 0.5937,
+      "commit1yHourly": 1.74636
     },
     {
       "provider": "aws",
@@ -843,8 +843,8 @@
       "ramGB": 64,
       "region": "us-east-1",
       "onDemandHourly": 3.04208,
-      "spotHourly": 0.676575,
-      "commit1yHourly": 2.10816
+      "spotHourly": 0.64045,
+      "commit1yHourly": 1.91651
     },
     {
       "provider": "aws",
@@ -855,8 +855,8 @@
       "ramGB": 128,
       "region": "us-east-1",
       "onDemandHourly": 4.08624,
-      "spotHourly": 0.947775,
-      "commit1yHourly": 2.83176
+      "spotHourly": 0.794675,
+      "commit1yHourly": 2.57433
     },
     {
       "provider": "aws",
@@ -867,7 +867,7 @@
       "ramGB": 192,
       "region": "us-east-1",
       "onDemandHourly": 7.12832,
-      "spotHourly": 1.185375,
+      "spotHourly": 1.188225,
       "commit1yHourly": 4.93993
     },
     {
@@ -879,7 +879,7 @@
       "ramGB": 384,
       "region": "us-east-1",
       "onDemandHourly": 14.25664,
-      "spotHourly": 2.115825,
+      "spotHourly": 1.982,
       "commit1yHourly": 9.87985
     },
     {
@@ -891,8 +891,8 @@
       "ramGB": 768,
       "region": "us-east-1",
       "onDemandHourly": 28.51328,
-      "spotHourly": 5.47205,
-      "commit1yHourly": 19.7597
+      "spotHourly": 6.768525,
+      "commit1yHourly": 17.96337
     },
     {
       "provider": "aws",
@@ -903,8 +903,8 @@
       "ramGB": 64,
       "region": "us-east-1",
       "onDemandHourly": 3.36312,
-      "spotHourly": 2.03,
-      "commit1yHourly": 2.33064
+      "spotHourly": 2.303067,
+      "commit1yHourly": 2.11877
     },
     {
       "provider": "aws",
@@ -915,8 +915,8 @@
       "ramGB": 128,
       "region": "us-east-1",
       "onDemandHourly": 3.99816,
-      "spotHourly": 1.92215,
-      "commit1yHourly": 2.51884
+      "spotHourly": 1.6283,
+      "commit1yHourly": 2.77072
     },
     {
       "provider": "aws",
@@ -927,7 +927,7 @@
       "ramGB": 256,
       "region": "us-east-1",
       "onDemandHourly": 5.26824,
-      "spotHourly": 3.2542,
+      "spotHourly": 3.359133,
       "commit1yHourly": 3.65089
     },
     {
@@ -939,7 +939,7 @@
       "ramGB": 512,
       "region": "us-east-1",
       "onDemandHourly": 8.28608,
-      "spotHourly": 5.77705,
+      "spotHourly": 5.172633,
       "commit1yHourly": 5.74225
     },
     {
@@ -951,7 +951,7 @@
       "ramGB": 1024,
       "region": "us-east-1",
       "onDemandHourly": 16.57216,
-      "spotHourly": 7.12635,
+      "spotHourly": 8.1455,
       "commit1yHourly": 10.44046
     },
     {
@@ -963,8 +963,8 @@
       "ramGB": 2048,
       "region": "us-east-1",
       "onDemandHourly": 33.14432,
-      "spotHourly": 19.9135,
-      "commit1yHourly": 22.96901
+      "spotHourly": 14.827067,
+      "commit1yHourly": 20.88092
     },
     {
       "provider": "aws",
@@ -975,8 +975,8 @@
       "ramGB": 16,
       "region": "us-east-1",
       "onDemandHourly": 0.526,
-      "spotHourly": 0.28016,
-      "commit1yHourly": 0.331
+      "spotHourly": 0.26536,
+      "commit1yHourly": 0.363
     },
     {
       "provider": "aws",
@@ -987,8 +987,8 @@
       "ramGB": 32,
       "region": "us-east-1",
       "onDemandHourly": 0.752,
-      "spotHourly": 0.30164,
-      "commit1yHourly": 0.519
+      "spotHourly": 0.31076,
+      "commit1yHourly": 0.474
     },
     {
       "provider": "aws",
@@ -999,7 +999,7 @@
       "ramGB": 64,
       "region": "us-east-1",
       "onDemandHourly": 1.204,
-      "spotHourly": 0.50888,
+      "spotHourly": 0.52574,
       "commit1yHourly": 0.831
     },
     {
@@ -1011,8 +1011,8 @@
       "ramGB": 128,
       "region": "us-east-1",
       "onDemandHourly": 2.176,
-      "spotHourly": 0.7512,
-      "commit1yHourly": 1.501
+      "spotHourly": 0.79474,
+      "commit1yHourly": 1.371
     },
     {
       "provider": "aws",
@@ -1023,7 +1023,7 @@
       "ramGB": 256,
       "region": "us-east-1",
       "onDemandHourly": 4.352,
-      "spotHourly": 1.50168,
+      "spotHourly": 1.52676,
       "commit1yHourly": 2.742
     },
     {
@@ -1035,7 +1035,7 @@
       "ramGB": 192,
       "region": "us-east-1",
       "onDemandHourly": 3.912,
-      "spotHourly": 1.52778,
+      "spotHourly": 1.48196,
       "commit1yHourly": 2.699
     },
     {
@@ -1047,7 +1047,7 @@
       "ramGB": 384,
       "region": "us-east-1",
       "onDemandHourly": 7.824,
-      "spotHourly": 4.95862,
+      "spotHourly": 5.64584,
       "commit1yHourly": 4.929
     },
     {
@@ -1095,7 +1095,7 @@
       "ramGB": 768,
       "region": "us-east-1",
       "onDemandHourly": 31.212,
-      "spotHourly": 3.6256,
+      "spotHourly": 3.3391,
       "commit1yHourly": 19.215
     },
     {
@@ -1107,8 +1107,8 @@
       "ramGB": 1152,
       "region": "us-west-2",
       "onDemandHourly": 21.95764,
-      "spotHourly": 12.618475,
-      "commit1yHourly": 13.921092
+      "spotHourly": 14.419675,
+      "commit1yHourly": 15.313202
     },
     {
       "provider": "aws",
@@ -1119,8 +1119,8 @@
       "ramGB": 1152,
       "region": "us-west-2",
       "onDemandHourly": 27.44705,
-      "spotHourly": 18.5526,
-      "commit1yHourly": 19.141502
+      "spotHourly": 19.482567,
+      "commit1yHourly": 17.401365
     },
     {
       "provider": "aws",
@@ -1131,8 +1131,8 @@
       "ramGB": 16,
       "region": "us-west-2",
       "onDemandHourly": 1.006,
-      "spotHourly": 0.493467,
-      "commit1yHourly": 0.69716
+      "spotHourly": 0.5723,
+      "commit1yHourly": 0.63378
     },
     {
       "provider": "aws",
@@ -1143,7 +1143,7 @@
       "ramGB": 32,
       "region": "us-west-2",
       "onDemandHourly": 1.212,
-      "spotHourly": 0.516133,
+      "spotHourly": 0.477067,
       "commit1yHourly": 0.76356
     },
     {
@@ -1155,7 +1155,7 @@
       "ramGB": 64,
       "region": "us-west-2",
       "onDemandHourly": 1.624,
-      "spotHourly": 0.758033,
+      "spotHourly": 0.684067,
       "commit1yHourly": 1.02312
     },
     {
@@ -1167,7 +1167,7 @@
       "ramGB": 128,
       "region": "us-west-2",
       "onDemandHourly": 2.448,
-      "spotHourly": 0.9778,
+      "spotHourly": 0.930033,
       "commit1yHourly": 1.54224
     },
     {
@@ -1179,8 +1179,8 @@
       "ramGB": 256,
       "region": "us-west-2",
       "onDemandHourly": 4.096,
-      "spotHourly": 1.2526,
-      "commit1yHourly": 2.58048
+      "spotHourly": 1.2348,
+      "commit1yHourly": 2.83853
     },
     {
       "provider": "aws",
@@ -1191,7 +1191,7 @@
       "ramGB": 192,
       "region": "us-west-2",
       "onDemandHourly": 5.672,
-      "spotHourly": 4.012933,
+      "spotHourly": 2.801267,
       "commit1yHourly": 3.9307
     },
     {
@@ -1203,8 +1203,8 @@
       "ramGB": 384,
       "region": "us-west-2",
       "onDemandHourly": 8.144,
-      "spotHourly": 3.097233,
-      "commit1yHourly": 5.13072
+      "spotHourly": 3.211133,
+      "commit1yHourly": 5.64379
     },
     {
       "provider": "aws",
@@ -1215,7 +1215,7 @@
       "ramGB": 768,
       "region": "us-west-2",
       "onDemandHourly": 16.288,
-      "spotHourly": 7.597767,
+      "spotHourly": 7.601033,
       "commit1yHourly": 11.28758
     },
     {
@@ -1227,8 +1227,8 @@
       "ramGB": 2048,
       "region": "us-west-2",
       "onDemandHourly": 113.9328,
-      "spotHourly": 51.8943,
-      "commit1yHourly": 89.72208
+      "spotHourly": 64.584533,
+      "commit1yHourly": 96.55805
     },
     {
       "provider": "aws",
@@ -1239,8 +1239,8 @@
       "ramGB": 4096,
       "region": "us-west-2",
       "onDemandHourly": 142.416,
-      "spotHourly": 65.4649,
-      "commit1yHourly": 112.1526
+      "spotHourly": 78.3215,
+      "commit1yHourly": 120.69756
     },
     {
       "provider": "aws",
@@ -1251,7 +1251,7 @@
       "ramGB": 256,
       "region": "us-west-2",
       "onDemandHourly": 6.88,
-      "spotHourly": 3.36895,
+      "spotHourly": 3.70945,
       "commit1yHourly": 4.3344
     },
     {
@@ -1263,8 +1263,8 @@
       "ramGB": 2048,
       "region": "us-west-2",
       "onDemandHourly": 55.04,
-      "spotHourly": 26.024625,
-      "commit1yHourly": 38.14272
+      "spotHourly": 31.65415,
+      "commit1yHourly": 34.6752
     },
     {
       "provider": "aws",
@@ -1275,7 +1275,7 @@
       "ramGB": 2048,
       "region": "us-west-2",
       "onDemandHourly": 63.296,
-      "spotHourly": 32.906167,
+      "spotHourly": 40.7179,
       "commit1yHourly": 43.86413
     },
     {
@@ -1287,8 +1287,8 @@
       "ramGB": 16,
       "region": "us-west-2",
       "onDemandHourly": 0.8048,
-      "spotHourly": 0.4919,
-      "commit1yHourly": 0.52392
+      "spotHourly": 0.576825,
+      "commit1yHourly": 0.57632
     },
     {
       "provider": "aws",
@@ -1299,7 +1299,7 @@
       "ramGB": 32,
       "region": "us-west-2",
       "onDemandHourly": 0.9776,
-      "spotHourly": 0.73505,
+      "spotHourly": 0.77805,
       "commit1yHourly": 0.63642
     },
     {
@@ -1311,8 +1311,8 @@
       "ramGB": 64,
       "region": "us-west-2",
       "onDemandHourly": 1.3232,
-      "spotHourly": 0.88225,
-      "commit1yHourly": 0.8614
+      "spotHourly": 0.852075,
+      "commit1yHourly": 0.94754
     },
     {
       "provider": "aws",
@@ -1323,7 +1323,7 @@
       "ramGB": 128,
       "region": "us-west-2",
       "onDemandHourly": 1.5392,
-      "spotHourly": 0.6436,
+      "spotHourly": 0.6871,
       "commit1yHourly": 1.00202
     },
     {
@@ -1335,7 +1335,7 @@
       "ramGB": 128,
       "region": "us-west-2",
       "onDemandHourly": 2.0144,
-      "spotHourly": 0.911125,
+      "spotHourly": 1.050825,
       "commit1yHourly": 1.31137
     },
     {
@@ -1347,7 +1347,7 @@
       "ramGB": 256,
       "region": "us-west-2",
       "onDemandHourly": 2.4464,
-      "spotHourly": 0.826675,
+      "spotHourly": 0.941575,
       "commit1yHourly": 1.59261
     },
     {
@@ -1359,7 +1359,7 @@
       "ramGB": 256,
       "region": "us-west-2",
       "onDemandHourly": 3.3968,
-      "spotHourly": 1.470025,
+      "spotHourly": 1.4503,
       "commit1yHourly": 2.43245
     },
     {
@@ -1371,7 +1371,7 @@
       "ramGB": 192,
       "region": "us-west-2",
       "onDemandHourly": 4.6016,
-      "spotHourly": 3.648875,
+      "spotHourly": 3.401775,
       "commit1yHourly": 2.99564
     },
     {
@@ -1383,8 +1383,8 @@
       "ramGB": 384,
       "region": "us-west-2",
       "onDemandHourly": 6.6752,
-      "spotHourly": 3.14455,
-      "commit1yHourly": 4.78011
+      "spotHourly": 3.61635,
+      "commit1yHourly": 4.34556
     },
     {
       "provider": "aws",
@@ -1395,7 +1395,7 @@
       "ramGB": 768,
       "region": "us-west-2",
       "onDemandHourly": 13.3504,
-      "spotHourly": 7.184775,
+      "spotHourly": 5.800075,
       "commit1yHourly": 8.69111
     },
     {
@@ -1407,8 +1407,8 @@
       "ramGB": 32,
       "region": "us-west-2",
       "onDemandHourly": 1.861,
-      "spotHourly": 1.825925,
-      "commit1yHourly": 1.28967
+      "spotHourly": 1.85665,
+      "commit1yHourly": 1.17243
     },
     {
       "provider": "aws",
@@ -1419,7 +1419,7 @@
       "ramGB": 64,
       "region": "us-west-2",
       "onDemandHourly": 2.24208,
-      "spotHourly": 1.986725,
+      "spotHourly": null,
       "commit1yHourly": 1.55376
     },
     {
@@ -1431,8 +1431,8 @@
       "ramGB": 128,
       "region": "us-west-2",
       "onDemandHourly": 3.00424,
-      "spotHourly": 2.466075,
-      "commit1yHourly": 2.08194
+      "spotHourly": 2.69385,
+      "commit1yHourly": 1.89267
     },
     {
       "provider": "aws",
@@ -1443,7 +1443,7 @@
       "ramGB": 256,
       "region": "us-west-2",
       "onDemandHourly": 4.52856,
-      "spotHourly": 2.503325,
+      "spotHourly": 2.924125,
       "commit1yHourly": 2.85299
     },
     {
@@ -1455,8 +1455,8 @@
       "ramGB": 512,
       "region": "us-west-2",
       "onDemandHourly": 7.57719,
-      "spotHourly": 3.3051,
-      "commit1yHourly": 5.25099
+      "spotHourly": 3.4322,
+      "commit1yHourly": 4.77363
     },
     {
       "provider": "aws",
@@ -1467,7 +1467,7 @@
       "ramGB": 384,
       "region": "us-west-2",
       "onDemandHourly": 10.49264,
-      "spotHourly": 9.005275,
+      "spotHourly": 10.1284,
       "commit1yHourly": 7.2714
     },
     {
@@ -1479,7 +1479,7 @@
       "ramGB": 768,
       "region": "us-west-2",
       "onDemandHourly": 15.06559,
-      "spotHourly": 12.214175,
+      "spotHourly": null,
       "commit1yHourly": 9.49132
     },
     {
@@ -1491,7 +1491,7 @@
       "ramGB": 1536,
       "region": "us-west-2",
       "onDemandHourly": 30.13118,
-      "spotHourly": 21.9442,
+      "spotHourly": 27.17835,
       "commit1yHourly": 18.98264
     },
     {
@@ -1503,7 +1503,7 @@
       "ramGB": 32,
       "region": "us-west-2",
       "onDemandHourly": 2.52,
-      "spotHourly": 0.783125,
+      "spotHourly": 1.0766,
       "commit1yHourly": 1.99584
     },
     {
@@ -1515,8 +1515,8 @@
       "ramGB": 64,
       "region": "us-west-2",
       "onDemandHourly": 3.04208,
-      "spotHourly": 0.912175,
-      "commit1yHourly": 2.1903
+      "spotHourly": 0.810625,
+      "commit1yHourly": 2.40933
     },
     {
       "provider": "aws",
@@ -1527,8 +1527,8 @@
       "ramGB": 128,
       "region": "us-west-2",
       "onDemandHourly": 4.08624,
-      "spotHourly": 1.0837,
-      "commit1yHourly": 2.94209
+      "spotHourly": 0.840825,
+      "commit1yHourly": 3.2363
     },
     {
       "provider": "aws",
@@ -1539,7 +1539,7 @@
       "ramGB": 192,
       "region": "us-west-2",
       "onDemandHourly": 7.12832,
-      "spotHourly": 2.13025,
+      "spotHourly": 1.050675,
       "commit1yHourly": 5.64563
     },
     {
@@ -1551,7 +1551,7 @@
       "ramGB": 384,
       "region": "us-west-2",
       "onDemandHourly": 14.25664,
-      "spotHourly": 4.337275,
+      "spotHourly": 2.39415,
       "commit1yHourly": 11.29126
     },
     {
@@ -1563,8 +1563,8 @@
       "ramGB": 768,
       "region": "us-west-2",
       "onDemandHourly": 28.51328,
-      "spotHourly": 7.556025,
-      "commit1yHourly": 20.52956
+      "spotHourly": 4.41455,
+      "commit1yHourly": 22.58252
     },
     {
       "provider": "aws",
@@ -1575,7 +1575,7 @@
       "ramGB": 64,
       "region": "us-west-2",
       "onDemandHourly": 3.36312,
-      "spotHourly": 2.72165,
+      "spotHourly": 2.4313,
       "commit1yHourly": 2.33064
     },
     {
@@ -1587,8 +1587,8 @@
       "ramGB": 128,
       "region": "us-west-2",
       "onDemandHourly": 3.99816,
-      "spotHourly": 3.406625,
-      "commit1yHourly": 2.77072
+      "spotHourly": 3.5598,
+      "commit1yHourly": 2.51884
     },
     {
       "provider": "aws",
@@ -1599,7 +1599,7 @@
       "ramGB": 256,
       "region": "us-west-2",
       "onDemandHourly": 5.26824,
-      "spotHourly": 3.9034,
+      "spotHourly": 4.18125,
       "commit1yHourly": 3.65089
     },
     {
@@ -1611,7 +1611,7 @@
       "ramGB": 512,
       "region": "us-west-2",
       "onDemandHourly": 8.28608,
-      "spotHourly": 7.61825,
+      "spotHourly": 7.952225,
       "commit1yHourly": 5.22023
     },
     {
@@ -1623,7 +1623,7 @@
       "ramGB": 1024,
       "region": "us-west-2",
       "onDemandHourly": 16.57216,
-      "spotHourly": 13.19885,
+      "spotHourly": 12.3475,
       "commit1yHourly": 11.48451
     },
     {
@@ -1635,8 +1635,8 @@
       "ramGB": 2048,
       "region": "us-west-2",
       "onDemandHourly": 33.14432,
-      "spotHourly": 29.1719,
-      "commit1yHourly": 20.88092
+      "spotHourly": 24.324525,
+      "commit1yHourly": 22.96901
     },
     {
       "provider": "aws",
@@ -1647,7 +1647,7 @@
       "ramGB": 16,
       "region": "us-west-2",
       "onDemandHourly": 0.526,
-      "spotHourly": 0.234467,
+      "spotHourly": 0.260333,
       "commit1yHourly": 0.363
     },
     {
@@ -1659,8 +1659,8 @@
       "ramGB": 32,
       "region": "us-west-2",
       "onDemandHourly": 0.752,
-      "spotHourly": 0.321,
-      "commit1yHourly": 0.519
+      "spotHourly": 0.3464,
+      "commit1yHourly": 0.474
     },
     {
       "provider": "aws",
@@ -1671,8 +1671,8 @@
       "ramGB": 64,
       "region": "us-west-2",
       "onDemandHourly": 1.204,
-      "spotHourly": 0.445933,
-      "commit1yHourly": 0.759
+      "spotHourly": 0.462233,
+      "commit1yHourly": 0.831
     },
     {
       "provider": "aws",
@@ -1683,7 +1683,7 @@
       "ramGB": 128,
       "region": "us-west-2",
       "onDemandHourly": 2.176,
-      "spotHourly": 0.788633,
+      "spotHourly": 0.901433,
       "commit1yHourly": 1.501
     },
     {
@@ -1695,7 +1695,7 @@
       "ramGB": 256,
       "region": "us-west-2",
       "onDemandHourly": 4.352,
-      "spotHourly": 1.354133,
+      "spotHourly": 1.819767,
       "commit1yHourly": 2.742
     },
     {
@@ -1707,7 +1707,7 @@
       "ramGB": 192,
       "region": "us-west-2",
       "onDemandHourly": 3.912,
-      "spotHourly": 1.5418,
+      "spotHourly": 1.6458,
       "commit1yHourly": 2.465
     },
     {
@@ -1719,7 +1719,7 @@
       "ramGB": 384,
       "region": "us-west-2",
       "onDemandHourly": 7.824,
-      "spotHourly": 4.577533,
+      "spotHourly": 4.551167,
       "commit1yHourly": 4.929
     },
     {
@@ -1767,7 +1767,7 @@
       "ramGB": 768,
       "region": "us-west-2",
       "onDemandHourly": 31.212,
-      "spotHourly": 8.4561,
+      "spotHourly": 6.67045,
       "commit1yHourly": 19.215
     },
     {
@@ -1839,7 +1839,7 @@
       "ramGB": 170,
       "region": "asia-southeast1",
       "onDemandHourly": 6.247685,
-      "spotHourly": 3.485317,
+      "spotHourly": 3.616278,
       "commit1yHourly": null
     },
     {
@@ -1851,7 +1851,7 @@
       "ramGB": 340,
       "region": "asia-southeast1",
       "onDemandHourly": 12.495371,
-      "spotHourly": 6.970633,
+      "spotHourly": 7.232557,
       "commit1yHourly": null
     },
     {
@@ -1863,7 +1863,7 @@
       "ramGB": 680,
       "region": "asia-southeast1",
       "onDemandHourly": 24.990742,
-      "spotHourly": 13.941267,
+      "spotHourly": 14.465113,
       "commit1yHourly": null
     },
     {
@@ -1875,7 +1875,7 @@
       "ramGB": 1360,
       "region": "asia-southeast1",
       "onDemandHourly": 49.981484,
-      "spotHourly": 27.882534,
+      "spotHourly": 28.930227,
       "commit1yHourly": null
     },
     {
@@ -1887,7 +1887,7 @@
       "ramGB": 234,
       "region": "asia-southeast1",
       "onDemandHourly": null,
-      "spotHourly": 8.567369,
+      "spotHourly": 6.984857,
       "commit1yHourly": null
     },
     {
@@ -1899,7 +1899,7 @@
       "ramGB": 468,
       "region": "asia-southeast1",
       "onDemandHourly": null,
-      "spotHourly": 17.134739,
+      "spotHourly": 13.969713,
       "commit1yHourly": null
     },
     {
@@ -1911,7 +1911,7 @@
       "ramGB": 936,
       "region": "asia-southeast1",
       "onDemandHourly": null,
-      "spotHourly": 34.269478,
+      "spotHourly": 27.939427,
       "commit1yHourly": null
     },
     {
@@ -1923,7 +1923,7 @@
       "ramGB": 1872,
       "region": "asia-southeast1",
       "onDemandHourly": 114.278293,
-      "spotHourly": 68.538955,
+      "spotHourly": 55.878854,
       "commit1yHourly": 79.279741
     },
     {
@@ -1935,7 +1935,7 @@
       "ramGB": 1872,
       "region": "asia-southeast1",
       "onDemandHourly": 119.974645,
-      "spotHourly": 71.956555,
+      "spotHourly": 64.197254,
       "commit1yHourly": 82.553504
     },
     {
@@ -2043,7 +2043,7 @@
       "ramGB": 180,
       "region": "asia-southeast1",
       "onDemandHourly": 5.399916,
-      "spotHourly": 2.3935,
+      "spotHourly": 2.2895,
       "commit1yHourly": 3.726
     },
     {
@@ -2055,7 +2055,7 @@
       "ramGB": 360,
       "region": "asia-southeast1",
       "onDemandHourly": 10.799832,
-      "spotHourly": 4.787,
+      "spotHourly": 4.579,
       "commit1yHourly": 7.452
     },
     {
@@ -2067,7 +2067,7 @@
       "ramGB": 720,
       "region": "asia-southeast1",
       "onDemandHourly": 21.599664,
-      "spotHourly": 9.574,
+      "spotHourly": 9.158,
       "commit1yHourly": 14.904
     },
     {
@@ -2079,7 +2079,7 @@
       "ramGB": 1440,
       "region": "asia-southeast1",
       "onDemandHourly": 43.199328,
-      "spotHourly": 19.148,
+      "spotHourly": 18.316,
       "commit1yHourly": 29.808
     },
     {
@@ -2091,7 +2091,7 @@
       "ramGB": 180,
       "region": "asia-southeast2",
       "onDemandHourly": 5.84959,
-      "spotHourly": 2.61768,
+      "spotHourly": 2.50704,
       "commit1yHourly": 4.175286
     },
     {
@@ -2103,7 +2103,7 @@
       "ramGB": 360,
       "region": "asia-southeast2",
       "onDemandHourly": 11.69918,
-      "spotHourly": 5.23536,
+      "spotHourly": 5.01408,
       "commit1yHourly": 8.350572
     },
     {
@@ -2115,7 +2115,7 @@
       "ramGB": 720,
       "region": "asia-southeast2",
       "onDemandHourly": 23.39836,
-      "spotHourly": 10.47072,
+      "spotHourly": 10.02816,
       "commit1yHourly": 16.701144
     },
     {
@@ -2127,7 +2127,7 @@
       "ramGB": 1440,
       "region": "asia-southeast2",
       "onDemandHourly": 46.79672,
-      "spotHourly": 20.94144,
+      "spotHourly": 20.05632,
       "commit1yHourly": 33.402288
     },
     {
@@ -2139,7 +2139,7 @@
       "ramGB": 85,
       "region": "us-central1",
       "onDemandHourly": 3.673385,
-      "spotHourly": 2.20401,
+      "spotHourly": 2.093815,
       "commit1yHourly": 2.314207
     },
     {
@@ -2151,7 +2151,7 @@
       "ramGB": 170,
       "region": "us-central1",
       "onDemandHourly": 7.34677,
-      "spotHourly": 4.40802,
+      "spotHourly": 4.18763,
       "commit1yHourly": 4.628414
     },
     {
@@ -2163,7 +2163,7 @@
       "ramGB": 340,
       "region": "us-central1",
       "onDemandHourly": 14.69354,
-      "spotHourly": 8.81604,
+      "spotHourly": 8.37526,
       "commit1yHourly": 9.256828
     },
     {
@@ -2175,7 +2175,7 @@
       "ramGB": 680,
       "region": "us-central1",
       "onDemandHourly": 29.38708,
-      "spotHourly": 17.63208,
+      "spotHourly": 16.75052,
       "commit1yHourly": 18.513656
     },
     {
@@ -2187,7 +2187,7 @@
       "ramGB": 1360,
       "region": "us-central1",
       "onDemandHourly": 55.739504,
-      "spotHourly": 33.44304,
+      "spotHourly": 31.77112,
       "commit1yHourly": 35.115473
     },
     {
@@ -2199,7 +2199,7 @@
       "ramGB": 170,
       "region": "us-central1",
       "onDemandHourly": 5.068798,
-      "spotHourly": 3.041238,
+      "spotHourly": 3.008145,
       "commit1yHourly": null
     },
     {
@@ -2211,7 +2211,7 @@
       "ramGB": 340,
       "region": "us-central1",
       "onDemandHourly": 10.137596,
-      "spotHourly": 6.082475,
+      "spotHourly": 6.01629,
       "commit1yHourly": null
     },
     {
@@ -2223,7 +2223,7 @@
       "ramGB": 680,
       "region": "us-central1",
       "onDemandHourly": 20.275192,
-      "spotHourly": 12.16495,
+      "spotHourly": 12.032579,
       "commit1yHourly": null
     },
     {
@@ -2235,7 +2235,7 @@
       "ramGB": 1360,
       "region": "us-central1",
       "onDemandHourly": 40.550383,
-      "spotHourly": 24.3299,
+      "spotHourly": 24.065158,
       "commit1yHourly": null
     },
     {
@@ -2259,7 +2259,7 @@
       "ramGB": 234,
       "region": "us-central1",
       "onDemandHourly": null,
-      "spotHourly": 6.620287,
+      "spotHourly": 6.587558,
       "commit1yHourly": null
     },
     {
@@ -2271,7 +2271,7 @@
       "ramGB": 468,
       "region": "us-central1",
       "onDemandHourly": null,
-      "spotHourly": 13.240574,
+      "spotHourly": 13.175115,
       "commit1yHourly": null
     },
     {
@@ -2283,7 +2283,7 @@
       "ramGB": 936,
       "region": "us-central1",
       "onDemandHourly": null,
-      "spotHourly": 26.481148,
+      "spotHourly": 26.35023,
       "commit1yHourly": null
     },
     {
@@ -2295,7 +2295,7 @@
       "ramGB": 1872,
       "region": "us-central1",
       "onDemandHourly": 88.49,
-      "spotHourly": 52.962297,
+      "spotHourly": 52.700461,
       "commit1yHourly": 61.383672
     },
     {
@@ -2307,7 +2307,7 @@
       "ramGB": 1872,
       "region": "us-central1",
       "onDemandHourly": 93.400713,
-      "spotHourly": 53.099243,
+      "spotHourly": 47.859389,
       "commit1yHourly": 64.206559
     },
     {
@@ -2319,7 +2319,7 @@
       "ramGB": 2952,
       "region": "us-central1",
       "onDemandHourly": null,
-      "spotHourly": 50.834997,
+      "spotHourly": 50.871161,
       "commit1yHourly": 58.471933
     },
     {
@@ -2331,7 +2331,7 @@
       "ramGB": 16,
       "region": "us-central1",
       "onDemandHourly": 0.706832,
-      "spotHourly": 0.424056,
+      "spotHourly": 0.423016,
       "commit1yHourly": 0.445304
     },
     {
@@ -2343,7 +2343,7 @@
       "ramGB": 32,
       "region": "us-central1",
       "onDemandHourly": 0.853624,
-      "spotHourly": 0.512112,
+      "spotHourly": 0.510832,
       "commit1yHourly": 0.537783
     },
     {
@@ -2355,7 +2355,7 @@
       "ramGB": 48,
       "region": "us-central1",
       "onDemandHourly": 1.000416,
-      "spotHourly": 0.600168,
+      "spotHourly": 0.598648,
       "commit1yHourly": 0.630262
     },
     {
@@ -2367,7 +2367,7 @@
       "ramGB": 64,
       "region": "us-central1",
       "onDemandHourly": 1.147208,
-      "spotHourly": 0.688224,
+      "spotHourly": 0.686464,
       "commit1yHourly": 0.722741
     },
     {
@@ -2379,7 +2379,7 @@
       "ramGB": 128,
       "region": "us-central1",
       "onDemandHourly": 1.734376,
-      "spotHourly": 1.040448,
+      "spotHourly": 1.037728,
       "commit1yHourly": 1.092657
     },
     {
@@ -2391,7 +2391,7 @@
       "ramGB": 96,
       "region": "us-central1",
       "onDemandHourly": 2.000833,
-      "spotHourly": 1.200336,
+      "spotHourly": 1.197296,
       "commit1yHourly": 1.260525
     },
     {
@@ -2403,7 +2403,7 @@
       "ramGB": 192,
       "region": "us-central1",
       "onDemandHourly": 4.001665,
-      "spotHourly": 2.400672,
+      "spotHourly": 2.394592,
       "commit1yHourly": 2.521049
     },
     {
@@ -2415,7 +2415,7 @@
       "ramGB": 384,
       "region": "us-central1",
       "onDemandHourly": 8.00333,
-      "spotHourly": 4.801344,
+      "spotHourly": 4.789184,
       "commit1yHourly": 5.042098
     },
     {
@@ -2427,7 +2427,7 @@
       "ramGB": 180,
       "region": "us-central1",
       "onDemandHourly": 4.49993,
-      "spotHourly": 1.77164,
+      "spotHourly": 1.58034,
       "commit1yHourly": 3.105
     },
     {
@@ -2439,7 +2439,7 @@
       "ramGB": 360,
       "region": "us-central1",
       "onDemandHourly": 8.99986,
-      "spotHourly": 3.54328,
+      "spotHourly": 3.16068,
       "commit1yHourly": 6.21
     },
     {
@@ -2451,7 +2451,7 @@
       "ramGB": 720,
       "region": "us-central1",
       "onDemandHourly": 17.99972,
-      "spotHourly": 7.08656,
+      "spotHourly": 6.32136,
       "commit1yHourly": 12.42
     },
     {
@@ -2463,7 +2463,7 @@
       "ramGB": 1440,
       "region": "us-central1",
       "onDemandHourly": 35.99944,
-      "spotHourly": 14.17312,
+      "spotHourly": 12.64272,
       "commit1yHourly": 24.84
     },
     {
@@ -2655,7 +2655,7 @@
       "ramGB": 1872,
       "region": "us-east4",
       "onDemandHourly": 92.937588,
-      "spotHourly": 35.275477,
+      "spotHourly": 36.580277,
       "commit1yHourly": 63.943375
     },
     {
@@ -2667,7 +2667,7 @@
       "ramGB": 16,
       "region": "us-east4",
       "onDemandHourly": 0.704518,
-      "spotHourly": 0.375872,
+      "spotHourly": 0.357084,
       "commit1yHourly": 0.443846
     },
     {
@@ -2679,7 +2679,7 @@
       "ramGB": 32,
       "region": "us-east4",
       "onDemandHourly": 0.850829,
-      "spotHourly": 0.453944,
+      "spotHourly": 0.431268,
       "commit1yHourly": 0.536022
     },
     {
@@ -2691,7 +2691,7 @@
       "ramGB": 48,
       "region": "us-east4",
       "onDemandHourly": 0.997141,
-      "spotHourly": 0.532016,
+      "spotHourly": 0.505452,
       "commit1yHourly": 0.628199
     },
     {
@@ -2703,7 +2703,7 @@
       "ramGB": 64,
       "region": "us-east4",
       "onDemandHourly": 1.143452,
-      "spotHourly": 0.610088,
+      "spotHourly": 0.579636,
       "commit1yHourly": 0.720375
     },
     {
@@ -2715,7 +2715,7 @@
       "ramGB": 128,
       "region": "us-east4",
       "onDemandHourly": 1.728697,
-      "spotHourly": 0.922376,
+      "spotHourly": 0.876372,
       "commit1yHourly": 1.089079
     },
     {
@@ -2727,7 +2727,7 @@
       "ramGB": 96,
       "region": "us-east4",
       "onDemandHourly": 1.994281,
-      "spotHourly": 1.064032,
+      "spotHourly": 1.010904,
       "commit1yHourly": 1.256397
     },
     {
@@ -2739,7 +2739,7 @@
       "ramGB": 192,
       "region": "us-east4",
       "onDemandHourly": 3.988562,
-      "spotHourly": 2.128064,
+      "spotHourly": 2.021808,
       "commit1yHourly": 2.512794
     },
     {
@@ -2751,7 +2751,7 @@
       "ramGB": 384,
       "region": "us-east4",
       "onDemandHourly": 7.977124,
-      "spotHourly": 4.256128,
+      "spotHourly": 4.043616,
       "commit1yHourly": 5.025589
     },
     {
@@ -2763,7 +2763,7 @@
       "ramGB": 180,
       "region": "us-east4",
       "onDemandHourly": 4.49993,
-      "spotHourly": 1.86016,
+      "spotHourly": 1.79036,
       "commit1yHourly": 3.105
     },
     {
@@ -2775,7 +2775,7 @@
       "ramGB": 360,
       "region": "us-east4",
       "onDemandHourly": 8.99986,
-      "spotHourly": 3.72032,
+      "spotHourly": 3.58072,
       "commit1yHourly": 6.21
     },
     {
@@ -2787,7 +2787,7 @@
       "ramGB": 720,
       "region": "us-east4",
       "onDemandHourly": 17.99972,
-      "spotHourly": 7.44064,
+      "spotHourly": 7.16144,
       "commit1yHourly": 12.42
     },
     {
@@ -2799,7 +2799,7 @@
       "ramGB": 1440,
       "region": "us-east4",
       "onDemandHourly": 35.99944,
-      "spotHourly": 14.88128,
+      "spotHourly": 14.32288,
       "commit1yHourly": 24.84
     }
   ]
